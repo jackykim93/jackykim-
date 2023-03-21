@@ -2,5 +2,6 @@ a = "gahyun"
 b = "jacky"
 c = a + b
 d = "hello"
-print(c)
+e = "works fine"
+print(e)
 
